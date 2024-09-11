@@ -1,12 +1,14 @@
 # derivautoaverage
 
+# Preffered usage on Windows with VScode. 
+
 Monitors and calculates Boom and Crash 300, 500, 1000 charts. 
 Logs tick data
 Prints out the current average ratio of a Spike due on market.
 
 * Do not rely on this for trading. This is a simple indicator.
 
-
+-----------------------------------
 
 # - WINDOWS -
 python --version
