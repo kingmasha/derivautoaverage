@@ -19,8 +19,11 @@ pip install colorama
 
 # - On LINUX -
 python -m venv venv
+
 .\venv\Scripts\activate
+
 source venv/bin/activate
+
 pip install MetaTrader5 colorama
 
 Run:
